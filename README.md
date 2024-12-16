@@ -1,17 +1,13 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+Description: This is a landing page for Intech VC without a Backend.  The page consist a home page that has informations on the projects under the VC, the mission and vision, and how users can request demo from any of the available projects. The request page only has simple validation, options and is not connected to any database yet.
+
 ## Getting Started
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
