@@ -56,9 +56,9 @@ export default function page () {
                         className="mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 border-[1px] focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md"
                         >
                         <option value="">Select an option</option>
-                        <option value="option1">Option 1</option>
-                        <option value="option2">Option 2</option>
-                        <option value="option3">Option 3</option>
+                        <option value="option1">Mobile Attendance System</option>
+                        <option value="option2">Smart Laundry System</option>
+                        <option value="option3">Face Recognition & Attendance System</option>
                     </select>
                 </div>
                 <div>
