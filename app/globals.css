@@ -16,8 +16,22 @@
   }
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 body {
   color: black;
-  background: var(--background);
+  background-image: linear-gradient(to right, white 30%, cyan);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  /* background-color: #de9000; */
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
 }
